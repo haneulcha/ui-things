@@ -1,3 +1,7 @@
+## ShowMore
+
+[react-show-more-text](https://github.com/devzonetech/react-show-more-text) 참고
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
